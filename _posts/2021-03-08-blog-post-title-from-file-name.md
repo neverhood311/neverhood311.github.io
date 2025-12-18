@@ -30,3 +30,13 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
+
+#### Some C++ Code
+```cpp
+int main()
+{
+    // this is a comment
+    std::printf("Hello, World!\n");
+    return 0;
+}
+```
