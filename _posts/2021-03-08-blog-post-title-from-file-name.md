@@ -71,4 +71,25 @@ $$\begin{aligned}
 E = mc^2
 \end{aligned}$$
 
+**1/9/26**
+
+<details>
+<summary>here's the summary</summary>
+
+### sub-heading
+
+some words
+
+`codeword`
+
+```
+some code
+```
+
+</details>
+
+## This is after the details
+### more after
+# thing
+
 I owe the IRS <span>$</span>300. Make that $\$600/2$
